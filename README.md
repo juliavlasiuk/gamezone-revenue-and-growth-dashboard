@@ -13,7 +13,7 @@ The dashboard is designed to answer key business questions:
 - How does customer and order growth look Year-over-Year?
 
 
-## Key Insights1. Revenue more than doubled YoY — but growth is concentrated
+## Key Insights. Revenue more than doubled YoY — but growth is concentrated
 **1.** Total revenue grew 159.7% YoY (from ~$1.4M to $3.63M). However, this growth is driven almost entirely by three products: 27in 4K Gaming Monitor, Sony PlayStation 5 Bundle and Nintendo Switch. The remaining five products contribute marginally.
 
 **Recommendation:** Investigate whether the bottom products are worth keeping in the portfolio or whether resources should be reallocated to the top performers.
