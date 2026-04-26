@@ -1,6 +1,7 @@
 -- data check
 select count(*)
-from gamezone_orders_data god;
+from gamezone_orders_data 
+limit 10;
 
 
 -- created view to replace UPPER column names and select only needed columns for analysis
