@@ -1,7 +1,5 @@
 # GameZone revenue and growth dashboard
-Interactive Power BI dashboard analyzing revenue, orders and customer growth across regions, products and marketing channels, with YoY performance tracking.
-
-Interactive Dashboard ➡️ [LINK](https://app.powerbi.com/links/upDtZ_A6lR?ctid=57c90c33-07df-4070-9672-cd2a8c9335ab&pbi_source=linkShare&bookmarkGuid=cec98cec-7fde-4961-9baf-73fa95acd299 )
+Using Excel, SQL and Power BI I prepared a dashboard that analyzes revenue, orders and customer growth across regions, products and marketing channels, with YoY performance tracking for the GameZone (fictional company)
 
 
 ## Project Overview
@@ -11,6 +9,20 @@ The dashboard is designed to answer key business questions:
 - Which products and regions drive the most revenue?
 - Which marketing channels generate the highest order volume and revenue?
 - How does customer and order growth look Year-over-Year?
+
+
+## Dashboard pages
+Page 1 — Revenue & Growth Analysis
+High-level overview of business performance with YoY comparisons.
+<img width="1087" height="607" alt="image" src="https://github.com/user-attachments/assets/2629eb7e-6d9a-4eaf-a5b2-32cbbd0c5208" />
+
+
+Page 2 — Product Deep Dive
+Granular view of product performance across marketing channels, platforms and time.
+<img width="1312" height="740" alt="image" src="https://github.com/user-attachments/assets/e93d7868-2afa-4544-9f33-84b4b7bb410b" />
+
+
+Interactive Dashboard ➡️ [LINK](https://app.powerbi.com/links/upDtZ_A6lR?ctid=57c90c33-07df-4070-9672-cd2a8c9335ab&pbi_source=linkShare&bookmarkGuid=cec98cec-7fde-4961-9baf-73fa95acd299 )
 
 
 ## Key Insights. Revenue more than doubled YoY — but growth is concentrated
@@ -38,18 +50,10 @@ Sony PlayStation 5 Bundle appears in 2019 data despite an official release in No
 
 **Recommendation:** This should be validated with the source system before using 2019 product-level data in any business decisions.
 
-## Dashboard pages
-Page 1 — Revenue & Growth Analysis
-High-level overview of business performance with YoY comparisons.
-<img width="1087" height="607" alt="image" src="https://github.com/user-attachments/assets/2629eb7e-6d9a-4eaf-a5b2-32cbbd0c5208" />
 
-
-Page 2 — Product Deep Dive
-Granular view of product performance across marketing channels, platforms and time.
-<img width="1312" height="740" alt="image" src="https://github.com/user-attachments/assets/e93d7868-2afa-4544-9f33-84b4b7bb410b" />
 
 ## Technical Details
-**Tools used:** Excel · PostgreSQL (DBeaver) · Power BI Desktop · Power BI Online
+**Tools used:** Excel, PostgreSQL (DBeaver), Power BI Desktop, Power BI Online
 
 **Data pipeline:**
 
